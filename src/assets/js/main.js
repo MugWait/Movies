@@ -1,4 +1,4 @@
-'use strict';
+
 
 // variables for navbar menu toggle
 const header = document.querySelector('header');

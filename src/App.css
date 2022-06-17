@@ -1,0 +1,54 @@
+*{
+  box-sizing: border-box;
+}
+
+
+.modal-dialog{
+  width: 1200px;  height: 100vh;
+  margin: auto;
+ 
+}
+.modal{
+  height: 100vh;
+  width: auto;
+  margin: auto;
+ 
+
+
+}
+.modal-body{
+  width: auto;
+  height: 61px;
+  display: grid;
+  gap: 50px;
+  grid-template-columns: 40% 50%;
+ 
+
+}
+.modal-open{
+  height: 100vh;
+ width: auto;  
+ margin: auto;
+ 
+
+ 
+}
+.two{
+  margin: auto;
+}
+.popup-title{
+  /* position: relative; */
+  font-size: 30px;
+  text-align: center;
+  margin: 10px;
+
+}
+.modal_img{
+    width: 450px;
+    height: 650px
+}
+
+.logo_img{
+  width: 80px;
+  height: 80px;
+}
